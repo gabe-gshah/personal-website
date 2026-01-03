@@ -1,0 +1,303 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "I am a Ph.D. student in the Media, Technology, and Society program at Northwestern University, where my research examines how individuals and teams interact with emerging technologies – particularly generative AI systems, social media, and search engines – through the lens of human-computer interaction and social network analysis.\nIn my current role as Team Research Lead at the Science of Networks in Communities (SONIC) Lab, I direct an interdisciplinary project – funded by the U.S. Army Research Laboratory and Microsoft Research – which investigates how multimodal large language models (MLLMs) function as collaborators in human-AI teams. Using experimental techniques, we analyze how different forms of AI participation – none vs. unimodal vs. multimodal – affect team trust, task performance, and overall team viability. The project translates classical team-process theory (e.g., Marks, Mathieu, & Zaccaro, 2001) into measurable constructs that evaluate both taskwork (execution) and teamwork (coordination) behaviors of AI teammates.\nComplementing this line of work, my forthcoming paper in the Journal of Advertising Research, Consumer Engagement with AI-Powered Search Engines and Implications for the Future of Search Advertising, uses survey and behavioral data to analyze how users’ motivations influence their interactions with AI-augmented search platforms. This research builds on earlier work from my master’s thesis at the University of Minnesota, where I examined how individual differences—such as cognitive motivation and product knowledge—shape the way consumers construct queries and evaluate information in online environments. Across these studies, I have honed expertise in fieldwork and survey design, psychometric measurement, and advanced statistical modeling using R/SPSS, with applications ranging from ANOVA and regression to factor and network analyses.\nPrior to my doctoral and masters studies, I worked as a Market and Consumer Insight Associate Account Executive at Kennedy Communications, where I analyzed paid search, social media, and email marketing data to inform campaign optimization for national clients. Using R-based Shiny dashboards and Google Data Studio, I developed workflows for data ingestion, analysis, and visualization – experiences that sparked my interest in how data-driven insights can improve both human and organizational performance. This early work in applied analytics continues to guide my research philosophy: that quantitative rigor is most impactful when paired with actionable insights for decision-makers.\nOutside of academia, I love being active (hiking and playing sports) and traveling with my friends and family. If you’re interested in collaboration, or have questions about my research, please reach out at the email below!"
+  },
+  {
+    "objectID": "projects/index.html",
+    "href": "projects/index.html",
+    "title": "Gabriel Garlough-Shah",
+    "section": "",
+    "text": "Where my personal projects go"
+  },
+  {
+    "objectID": "research/index.html",
+    "href": "research/index.html",
+    "title": "Research",
+    "section": "",
+    "text": "Given the trajectory toward a search environment in which consumers may rely on both traditional and AI-powered search engines to gather information, understanding the behavioral similarities and differences that emerge in consumers’ use of these two types of search platforms becomes imperative. This study examines how dual tracks of gratification-seeking can produce consequential differences in consumer behaviors, pushing research that employs uses and gratifications to consider how motivations may drive both platform choice and differential use simultaneously.\nVenue: Forthcoming in Journal of Advertising Research\n\n\n\nThis study investigates the validity of computational attitude measures and provides researchers with best practices and considerations when applying them. We introduce the working of large language models and generative AI, investigate their precision in detecting attitude towards an ad and its strength, and contrast them with traditional survey measures to assess their convergent validity.\nVenue: International Communication Association (ICA) Conference paper"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "Open CV PDF in new tab    •    Download CV PDF"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Gabriel Garlough-Shah",
+    "section": "",
+    "text": "Gabriel Garlough-Shah is a PhD student in the Media, Technology, and Society program working with Dr. Noshir Contractor in the Science of Networks in Communities (SONIC) lab and with Dr. Nathan Walter in the Center Of Media Psychology and Social Influence (COM-PSI). His interests center around addressing questions within the fields of information retrieval, human-computer interaction, social networks, and consumer behavior; specifically, those concerned with individuals’ use of social media, search engines, and generative AI. These questions largely focus on individuals’ ability to obtain and engage with content on these interactive media, along with affective and behavioral reactions toward said content. His current work assess how the performance, communication patterns, and viability of teams may be affected by the introduction of agentic AI-teammates into organizational settings. He holds a B.A. from the University of Wisconsin-Madison (Strategic Communication) and an M.A. from the University of Minnesota-Twin Cities (Mass Communication)."
+  },
+  {
+    "objectID": "research/index.html#projects-in-progress",
+    "href": "research/index.html#projects-in-progress",
+    "title": "Research",
+    "section": "Projects (In progress)",
+    "text": "Projects (In progress)\n\n\nMultimodal LLMs in Human–AI Teams\nThis project integrates core team‐process theory by mapping team- and taskwork behaviors to established LLM benchmarks. Building on Marks et al. (2001) framework, we specify measurable proxies that capture the ability of LLMs to act as a teammate. By benchmarking models along dimensions laid out by Marks et al. (2001), we create an architecture that can model an “ideal LLM teammate,” combining the best aspects of each model through LLM routing.\nStatus: In progress\n\n\nTracking Generative AI Discourse on Twitter/X\nThe goal of this research is to investigate how GenAI / LLM discourse has changed on Twitter over the past three years (between 02/2022 and 02/2025), a primary domain for research on the sharing and consumption of AI-related information. Analyzing this period allows us to observe how the discourse has shifted from pre-ChatGPT release (11/30/2022) to post-release and beyond, to gain more granular insights\nStatus: Conference presentation, Revising for publication\n\n\nMeta-Analysis on The Effects of AI-Disclosure on Persuasive Outcomes\nThe current study examines how disclosures of GenAI use influence the persuasiveness of messaging by way of meta-analysis. Relying on theories of persuasive communication, this review summarizes findings from 26 papers (k = 34, N = 8,511) surrounding the effect of AI-disclosure labels on attitudes, intentions, and behaviors – conceptualized together as persuasion.\nStatus: Conference presentation, Revising for publication"
+  },
+  {
+    "objectID": "research/index.html#papers-conference-work",
+    "href": "research/index.html#papers-conference-work",
+    "title": "Research",
+    "section": "",
+    "text": "Given the trajectory toward a search environment in which consumers may rely on both traditional and AI-powered search engines to gather information, understanding the behavioral similarities and differences that emerge in consumers’ use of these two types of search platforms becomes imperative. This study examines how dual tracks of gratification-seeking can produce consequential differences in consumer behaviors, pushing research that employs uses and gratifications to consider how motivations may drive both platform choice and differential use simultaneously.\nVenue: Forthcoming in Journal of Advertising Research\n\n\n\nThis study investigates the validity of computational attitude measures and provides researchers with best practices and considerations when applying them. We introduce the working of large language models and generative AI, investigate their precision in detecting attitude towards an ad and its strength, and contrast them with traditional survey measures to assess their convergent validity.\nVenue: International Communication Association (ICA) Conference paper"
+  },
+  {
+    "objectID": "research/papers/consumer-engagement-ai-search.html",
+    "href": "research/papers/consumer-engagement-ai-search.html",
+    "title": "Consumer Engagement With AI-Powered Search Engines: Implications for the Future of Search Advertising Research and Practice",
+    "section": "",
+    "text": "Abstract: The rapid emergence and adoption of AI-powered search engines (AIPSEs; i.e. Google Gemini) present enormous opportunities and challenges for search advertising research and practice. Addressing these opportunities and challenges, this study employs an online observation method, examining consumers’ choice between AIPSEs and traditional search engines (TSEs; i.e., Google), motivations for using each search engine type, and use of these platforms. Results show heavier reliance on TSEs than AIPSEs, more elaborative keyword use on AIPSEs, and heightened use of AIPSEs in advice-seeking circumstances, among other notable findings. These results offer both theoretical and practical implications for the future of search advertising."
+  },
+  {
+    "objectID": "research/papers/consumer-engagement-ai-search.html#status",
+    "href": "research/papers/consumer-engagement-ai-search.html#status",
+    "title": "Consumer Engagement With AI-Powered Search Engines: Implications for the Future of Search Advertising Research and Practice",
+    "section": "Status",
+    "text": "Status\n\nPublished: Journal of Advertising Research"
+  },
+  {
+    "objectID": "research/papers/consumer-engagement-ai-search.html#summary",
+    "href": "research/papers/consumer-engagement-ai-search.html#summary",
+    "title": "Consumer Engagement With AI-Powered Search Engines: Implications for the Future of Search Advertising Research and Practice",
+    "section": "Summary",
+    "text": "Summary\n\nConsumers’ use of AI-powered search engines is increasing, and among those who use both types of search engines, advice-seeking searches are more often conducted on AI-powered search engines than on traditional search engines.\nThe impact of AI-powered search engines on search advertising may depend on the type of search, with consumers’ increasing reliance on AI-powered search engines presenting a potentially complementary or competitive implications for traditional search engines.\nFat-head keyword targeting on traditional search engines would not likely be affected by increasing consumers’ reliance on AI-powered search engines in the near future, but long-tail keyword targeting on traditional search engines would be threatened as consumers divide their elaborative searches across these platforms.\nNew tactics devised to disseminate sponsored content on AIPSEs may require focusing more on SEO fine-tuning of websites – or Generative Engine Optimization – as high-quality links seem to be what AIPSEs present to users. This may also require advertisers to investigate the applicability of long-tail or advice-seeking keyword strings with their online offerings, along with alterations to the backend structure of their webpages to allow LLMs to properly read their content.\nSerious consideration should be given to what sponsored ad placement on AIPSEs may look like (i.e., disclosure considerations, positioning on the UI, etc.), and how it will function (i.e., altering LLM text, presenting preconstructed messages), as pay-per-click models may not be the most appropriate model."
+  },
+  {
+    "objectID": "research/papers/consumer-engagement-ai-search.html#methods-data",
+    "href": "research/papers/consumer-engagement-ai-search.html#methods-data",
+    "title": "Consumer Engagement With AI-Powered Search Engines: Implications for the Future of Search Advertising Research and Practice",
+    "section": "Methods / Data",
+    "text": "Methods / Data\n\nWe collect observational, digital trace data, highlighting consumers’ natural query and information retrieval processes as they choose to use TSE and AIPSE platforms, identifying how search tactics (i.e., query formulation), motivational differences, and engagement with search results (i.e., clicking behavior) may differ between TSEs and AIPSEs.\nThis study employs an innovative online search behavior observation method, using a web-hosted interface and Google Chrome extension to collect participants’ search data."
+  },
+  {
+    "objectID": "research/papers/consumer-engagement-ai-search.html#outputs",
+    "href": "research/papers/consumer-engagement-ai-search.html#outputs",
+    "title": "Consumer Engagement With AI-Powered Search Engines: Implications for the Future of Search Advertising Research and Practice",
+    "section": "Outputs",
+    "text": "Outputs\n\nPaper: link"
+  },
+  {
+    "objectID": "research/papers/consumer-engagement-ai-search.html#citation",
+    "href": "research/papers/consumer-engagement-ai-search.html#citation",
+    "title": "Consumer Engagement With AI-Powered Search Engines: Implications for the Future of Search Advertising Research and Practice",
+    "section": "Citation",
+    "text": "Citation\n@article{doi:10.1080/00218499.2025.2589501, author = {Garlough-Shah, Gabriel, Park, Jong Inn, Hayati, Shirley Anugrah, Kang, Dongyeop, and Huh, Jisu}, title = {Consumer Engagement With AI-Powered Search Engines: Implications for the Future of Search Advertising Research and Practice}, journal = {Journal of Advertising Research}, year = {2026}, doi = {10.1080/00218499.2025.2589501}}"
+  },
+  {
+    "objectID": "research/papers/ai-measurement-validity.html",
+    "href": "research/papers/ai-measurement-validity.html",
+    "title": "Decoding Attitude: (Generative) AI and Measurement Validity in Advertising Research",
+    "section": "",
+    "text": "Abstract: Studying latent constructs, such as attitude and its strength, has been crucial in advertising theory development. While questionnaires remain one of the most used instruments, text and social media analytics are gaining popularity. Advances in Natural Language Processing and generative AI allow researchers to study consumers’ attitudes with a higher degree of ecological validity, creating an opportunity to access large data sets free of biases attributed to survey research. However, validity of computational measures in the advertising context is generally unknown and best-practices are missing. This study investigates the validity of computational attitude measures and provides researchers with best practices and considerations when applying them. We introduce the working of large language models and generative AI, investigate their precision in detecting attitude towards an ad and its strength, and contrast them with traditional survey measures to assess their convergent validity. Findings show both shortcomings and potential benefits of using computational methods when it comes to accuracy in predicting attitudes, especially as they relate to complexity of the task at hand and reliability. Based on the findings, advertising researchers are provided with dos and don’ts and a research agenda for computational measures of latent constructs such as attitudes."
+  },
+  {
+    "objectID": "research/papers/ai-measurement-validity.html#status",
+    "href": "research/papers/ai-measurement-validity.html#status",
+    "title": "Decoding Attitude: (Generative) AI and Measurement Validity in Advertising Research",
+    "section": "Status",
+    "text": "Status\n\nPresented at International Communication Association 2025 annual conference – Computational Methods Division"
+  },
+  {
+    "objectID": "research/papers/ai-measurement-validity.html#summary",
+    "href": "research/papers/ai-measurement-validity.html#summary",
+    "title": "Decoding Attitude: (Generative) AI and Measurement Validity in Advertising Research",
+    "section": "## Summary",
+    "text": "## Summary"
+  },
+  {
+    "objectID": "research/papers/ai-measurement-validity.html#methods-data",
+    "href": "research/papers/ai-measurement-validity.html#methods-data",
+    "title": "Decoding Attitude: (Generative) AI and Measurement Validity in Advertising Research",
+    "section": "## Methods / Data",
+    "text": "## Methods / Data"
+  },
+  {
+    "objectID": "research/papers/ai-measurement-validity.html#outputs",
+    "href": "research/papers/ai-measurement-validity.html#outputs",
+    "title": "Decoding Attitude: (Generative) AI and Measurement Validity in Advertising Research",
+    "section": "Outputs",
+    "text": "Outputs\n\nPaper: download\nSlides: link\nOSF: link"
+  },
+  {
+    "objectID": "research/papers/ai-measurement-validity.html#citation",
+    "href": "research/papers/ai-measurement-validity.html#citation",
+    "title": "Decoding Attitude: (Generative) AI and Measurement Validity in Advertising Research",
+    "section": "Citation",
+    "text": "Citation\n@article{doi:10.1080/00218499.2025.2589501, author = {Garlough-Shah, Gabriel, Park, Jong Inn, Hayati, Shirley Anugrah, Kang, Dongyeop, and Huh, Jisu}, title = {Consumer Engagement With AI-Powered Search Engines: Implications for the Future of Search Advertising Research and Practice}, journal = {Journal of Advertising Research}, year = {2026}, doi = {10.1080/00218499.2025.2589501}}"
+  },
+  {
+    "objectID": "research/papers/twitter-genai-discourse.html",
+    "href": "research/papers/twitter-genai-discourse.html",
+    "title": "Tracking Generative AI Discourse: A Temporal and Spatial Analysis of Twitter Data",
+    "section": "",
+    "text": "Abstract: This fast-paced integration of digital technologies into society has been a growing trend within the past decade, with each new device, program, or application beating the next to 100 million monthly users faster than the last. A portion of this rapid adoption can be attributed to the extensive use of social media platforms like Instagram, TikTok, Reddit, and Twitter (now X), allowing early adopters and stakeholders to share information about these technologies with potential users, and in turn allowing these new adopters to spread information to their networks at scale. Despite their clear impact, it is difficult to say whether the effects of Generative AI over this period – and in turn the discussions about their implications by media figures and influencers – are associated with more positive or negative sentiment, especially around certain salient topics. Understanding the nuances of such discourse is vital for forecasting the future use and the development of Generative AI. With this in mind, the study of discourse around technologies on social media serves an important role in understanding who is using this technology, how it is being used, and what trends may be emerging within the space."
+  },
+  {
+    "objectID": "research/papers/twitter-genai-discourse.html#status",
+    "href": "research/papers/twitter-genai-discourse.html#status",
+    "title": "Tracking Generative AI Discourse: A Temporal and Spatial Analysis of Twitter Data",
+    "section": "Status",
+    "text": "Status\n\nPresented at Association for Education in Journalism and Mass Communication (2025) annual conference – Communication Technology Division Division"
+  },
+  {
+    "objectID": "research/papers/twitter-genai-discourse.html#summary",
+    "href": "research/papers/twitter-genai-discourse.html#summary",
+    "title": "Tracking Generative AI Discourse: A Temporal and Spatial Analysis of Twitter Data",
+    "section": "## Summary",
+    "text": "## Summary"
+  },
+  {
+    "objectID": "research/papers/twitter-genai-discourse.html#methods-data",
+    "href": "research/papers/twitter-genai-discourse.html#methods-data",
+    "title": "Tracking Generative AI Discourse: A Temporal and Spatial Analysis of Twitter Data",
+    "section": "## Methods / Data",
+    "text": "## Methods / Data"
+  },
+  {
+    "objectID": "research/papers/twitter-genai-discourse.html#outputs",
+    "href": "research/papers/twitter-genai-discourse.html#outputs",
+    "title": "Tracking Generative AI Discourse: A Temporal and Spatial Analysis of Twitter Data",
+    "section": "Outputs",
+    "text": "Outputs\n\nPaper: download\nSlides: link"
+  },
+  {
+    "objectID": "research/papers/twitter-genai-discourse.html#citation",
+    "href": "research/papers/twitter-genai-discourse.html#citation",
+    "title": "Tracking Generative AI Discourse: A Temporal and Spatial Analysis of Twitter Data",
+    "section": "Citation",
+    "text": "Citation"
+  },
+  {
+    "objectID": "research/projects/twitter-genai-discourse.html",
+    "href": "research/projects/twitter-genai-discourse.html",
+    "title": "Tracking Generative AI Discourse: A Temporal and Spatial Analysis of Twitter Data",
+    "section": "",
+    "text": "Abstract: This fast-paced integration of digital technologies into society has been a growing trend within the past decade, with each new device, program, or application beating the next to 100 million monthly users faster than the last. A portion of this rapid adoption can be attributed to the extensive use of social media platforms like Instagram, TikTok, Reddit, and Twitter (now X), allowing early adopters and stakeholders to share information about these technologies with potential users, and in turn allowing these new adopters to spread information to their networks at scale. Despite their clear impact, it is difficult to say whether the effects of Generative AI over this period – and in turn the discussions about their implications by media figures and influencers – are associated with more positive or negative sentiment, especially around certain salient topics. Understanding the nuances of such discourse is vital for forecasting the future use and the development of Generative AI. With this in mind, the study of discourse around technologies on social media serves an important role in understanding who is using this technology, how it is being used, and what trends may be emerging within the space."
+  },
+  {
+    "objectID": "research/projects/twitter-genai-discourse.html#status",
+    "href": "research/projects/twitter-genai-discourse.html#status",
+    "title": "Tracking Generative AI Discourse: A Temporal and Spatial Analysis of Twitter Data",
+    "section": "Status",
+    "text": "Status\n\nPresented at Association for Education in Journalism and Mass Communication (2025) annual conference – Communication Technology Division Division"
+  },
+  {
+    "objectID": "research/projects/twitter-genai-discourse.html#summary",
+    "href": "research/projects/twitter-genai-discourse.html#summary",
+    "title": "Tracking Generative AI Discourse: A Temporal and Spatial Analysis of Twitter Data",
+    "section": "Summary",
+    "text": "Summary\n\nWe can see from our keyword analysis that discussions about these topics are growing and are dominated by three main keywords: “GenAI,” “LLM,” and “AGI.” We expect this trend to continue as these technologies are further integrated into our everyday lives.\nFrom our geographic analyses, we find, unsurprisingly, that states with major metropolitan areas are the ones that tweet the most about these topics. Combining sentiment and geographic data, we find that coastal states (the exception being IL) seem to be more positive in sentiment compared to midwestern or agriculturally dominant states, which is unsurprising given the connections between these coastal areas and high-tech like GenAI/LLMs.\nFrom the network analysis, we observe that discourse surrounding GenAI within communities tends to be broad and multifaceted, focusing on arts, technical methods, trends, and advancements within the field.\nWhile our multilevel analyses that deal with sentiment over time are not very granular – and overall sentiment is still more positive than negative, even in 24/25 (albeit very close; 0.504) – the trends we observe suggest that there may have been a honeymoon period where the promises of GenAI/LLMs from 2022 have not been realized, causing individuals to be disillusioned with the implementation of these technologies throughout our society."
+  },
+  {
+    "objectID": "research/projects/twitter-genai-discourse.html#methods-data",
+    "href": "research/projects/twitter-genai-discourse.html#methods-data",
+    "title": "Tracking Generative AI Discourse: A Temporal and Spatial Analysis of Twitter Data",
+    "section": "Methods / Data",
+    "text": "Methods / Data\n\nData collection was done using Synthesio - a third-party platform for social media data. The collected corpus of tweets consists of a 10% decahose sample of all tweets, filtered using the keywords from the keyword list over a 3-year period from Feb 2022 to Feb 2025. Features include the user ID, date and time of publication, publisher username, tweet content, and a sentiment score.\nFor data cleaning, deleted and protected tweets were removed to eliminate inaccessible content. Next, a manual scan was conducted to identify and filter out tweets associated with bot activity by examining common keywords and patterns indicative of automated or spam accounts. The dataset was filtered to include only English-language tweets originating from the US, allowing for a more relevant analysis of domestic discourse, containing 962,314 tweets and 260,617 unique users.\nWe fine-tuned a BERTweet model – a large-scale language model specifically designed for English tweets – for binary classification of relevant tweets and sentiment classification. Applying the relevance and sentiment classifiers to the full corpus yielded 700,279 tweets with 215,921 unique users."
+  },
+  {
+    "objectID": "research/projects/twitter-genai-discourse.html#outputs",
+    "href": "research/projects/twitter-genai-discourse.html#outputs",
+    "title": "Tracking Generative AI Discourse: A Temporal and Spatial Analysis of Twitter Data",
+    "section": "Outputs",
+    "text": "Outputs\n\nWorking Paper: download\nSlides: link"
+  },
+  {
+    "objectID": "research/projects/twitter-genai-discourse.html#citation",
+    "href": "research/projects/twitter-genai-discourse.html#citation",
+    "title": "Tracking Generative AI Discourse: A Temporal and Spatial Analysis of Twitter Data",
+    "section": "Citation",
+    "text": "Citation"
+  },
+  {
+    "objectID": "research/projects/disclosure-meta-analysis.html",
+    "href": "research/projects/disclosure-meta-analysis.html",
+    "title": "Pay No Attention to the Entity Behind the Curtain: A Meta-Analysis on The Effects of AI-Disclosure on Persuasive Outcomes",
+    "section": "",
+    "text": "Abstract: Generative AI (GenAI) has fundamentally reshaped the process of knowledge and creative work. Given the growing adoption of GenAI in communication-centric trades, the current study examines how disclosures of GenAI use influence the persuasiveness of messaging by way of meta-analysis. Relying on theories of persuasive communication, this review summarizes findings from 26 papers (k = 34, N = 8,511) surrounding the effect of AI-disclosure labels on attitudes, intentions, and behaviors – conceptualized together as persuasion. Findings reveal the overall effect of AI-disclosure labels on persuasion is small and non-significant (Hedge’s g = -0.112; p = 0.114). However, subgroup analyses reveal that while AI-disclosure may have null effects on intentions or behavior, this practice does negatively influence attitudes (g = -0.159; p = 0.023). Further, much of this effect can be attributed to the negative effects of AI-disclosure on ad attitudes (g = -0.2; p &lt; 0.000) as opposed to attitudes toward the brand or product (g = 0.057; p = 0.757). These results provide preliminary evidence that AI-disclosures may have fleeting downstream effects, affecting in the moment attitudes but not affecting more complex persuasive outcomes. Additional moderation analyses are required to examine these relationships further."
+  },
+  {
+    "objectID": "research/projects/disclosure-meta-analysis.html#status",
+    "href": "research/projects/disclosure-meta-analysis.html#status",
+    "title": "Pay No Attention to the Entity Behind the Curtain: A Meta-Analysis on The Effects of AI-Disclosure on Persuasive Outcomes",
+    "section": "Status",
+    "text": "Status\n\nSubmitted to International Communication Association (2026) annual conference – Information Systems Division\nRevising for publication"
+  },
+  {
+    "objectID": "research/projects/disclosure-meta-analysis.html#summary",
+    "href": "research/projects/disclosure-meta-analysis.html#summary",
+    "title": "Pay No Attention to the Entity Behind the Curtain: A Meta-Analysis on The Effects of AI-Disclosure on Persuasive Outcomes",
+    "section": "Summary",
+    "text": "Summary\n\nWhen considering both behaviors and attitudes, the overall mean effect is small and non-significant. While we coded both attitudes and behaviors, separate analyses shed light on the specifics. Disclosure has a marginally negative effect on behavior, however this relationship was not significant, with the model showing the highest level of heterogeneity out of each of our five models.\nWhile there is a possibility that moderators, like source credibility, may play a factor in these findings, it is also possible that this null relationship reflects a stopping point for the effect of AI-disclosure on persuasion. That is, AI-disclosures may not have pervasive effects beyond inducing negative ‘in the moment’ attitudes.\nPotential support for this sentiment can be found in our models that examine effects on attitudes, with results showing that attitudes are significantly more negative when AI use is disclosed. However, studies measured various types of attitudes, including attitudes towards the ad, brand, and product. Our results show that the attitudes that are most affected are those toward the ad itself, not those toward the brand or product."
+  },
+  {
+    "objectID": "research/projects/disclosure-meta-analysis.html#methods-data",
+    "href": "research/projects/disclosure-meta-analysis.html#methods-data",
+    "title": "Pay No Attention to the Entity Behind the Curtain: A Meta-Analysis on The Effects of AI-Disclosure on Persuasive Outcomes",
+    "section": "Methods / Data",
+    "text": "Methods / Data\n\nContact for dataset"
+  },
+  {
+    "objectID": "research/projects/disclosure-meta-analysis.html#outputs",
+    "href": "research/projects/disclosure-meta-analysis.html#outputs",
+    "title": "Pay No Attention to the Entity Behind the Curtain: A Meta-Analysis on The Effects of AI-Disclosure on Persuasive Outcomes",
+    "section": "Outputs",
+    "text": "Outputs\n\nPaper: Contact for working paper"
+  },
+  {
+    "objectID": "research/projects/disclosure-meta-analysis.html#citation",
+    "href": "research/projects/disclosure-meta-analysis.html#citation",
+    "title": "Pay No Attention to the Entity Behind the Curtain: A Meta-Analysis on The Effects of AI-Disclosure on Persuasive Outcomes",
+    "section": "Citation",
+    "text": "Citation"
+  },
+  {
+    "objectID": "research/projects/multimodal-llm-teams.html",
+    "href": "research/projects/multimodal-llm-teams.html",
+    "title": "Finding the Team for the Task: Assessing the Disruptive Capabilities of AI-Agents in Human Teams",
+    "section": "",
+    "text": "Abstract: We propose a two-part research study. First, given the variety of multimodal LLMs available (both closed and open-source), and the variability in these models’ performance for different tasks (Wang et al., 2024), it is essential to rigorously evaluate a range of models on tasks critical to effective teaming – taskwork (i.e., “behaviors related to performing [a] task”) and teamwork (i.e., “behaviors that facilitate the coordinated functioning of the team”) (Driskell et al., 2018, p. 8). To determine the competence of different models we evaluate their performance in tasks relevant to human-AI collaboration (i.e., information retrieval, speaker identification, directive following, planning), using established benchmarks to rank these systems. This project integrates core team‐process theory by mapping team- and taskwork behaviors to established LLM benchmarks. Building on Marks et al. (2001) framework, we specify measurable proxies that capture the ability of LLMs to act as a teammate. By benchmarking models along dimensions laid out by Marks et al. (2001), we create an architecture that can model an “ideal LLM teammate,” combining the best aspects of each model through LLM routing (Schnitzer et al., 2023). Second, using this system we will conduct online, team-oriented experiments, assigning participants into teaming conditions, including (1) human-only teams, (2) human-AI teams with text-only teammates, and (3) human-AI teams with fully multimodal (text, voice, vision) teammates. After random assignment, these teams will complete problem-solving tasks to assess performance and affect (trust and viability) differences between groups. The integration of these approaches will enable this research to construct a holistic understanding of the effects of multimodal LLMs in the workplace and their potential to influence the labor force."
+  },
+  {
+    "objectID": "research/projects/multimodal-llm-teams.html#status",
+    "href": "research/projects/multimodal-llm-teams.html#status",
+    "title": "Finding the Team for the Task: Assessing the Disruptive Capabilities of AI-Agents in Human Teams",
+    "section": "Status",
+    "text": "Status\n\nPresented at National Communication Association (2026) preconference – Organizational Communication Division\nRevising for publication"
+  },
+  {
+    "objectID": "research/projects/multimodal-llm-teams.html#summary",
+    "href": "research/projects/multimodal-llm-teams.html#summary",
+    "title": "Finding the Team for the Task: Assessing the Disruptive Capabilities of AI-Agents in Human Teams",
+    "section": "## Summary",
+    "text": "## Summary"
+  },
+  {
+    "objectID": "research/projects/multimodal-llm-teams.html#methods-data",
+    "href": "research/projects/multimodal-llm-teams.html#methods-data",
+    "title": "Finding the Team for the Task: Assessing the Disruptive Capabilities of AI-Agents in Human Teams",
+    "section": "Methods / Data",
+    "text": "Methods / Data\n\nContact for dataset"
+  },
+  {
+    "objectID": "research/projects/multimodal-llm-teams.html#outputs",
+    "href": "research/projects/multimodal-llm-teams.html#outputs",
+    "title": "Finding the Team for the Task: Assessing the Disruptive Capabilities of AI-Agents in Human Teams",
+    "section": "Outputs",
+    "text": "Outputs\n\nPaper: Contact for working paper"
+  },
+  {
+    "objectID": "research/projects/multimodal-llm-teams.html#citation",
+    "href": "research/projects/multimodal-llm-teams.html#citation",
+    "title": "Finding the Team for the Task: Assessing the Disruptive Capabilities of AI-Agents in Human Teams",
+    "section": "Citation",
+    "text": "Citation"
+  }
+]

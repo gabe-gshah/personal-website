@@ -1,0 +1,45 @@
+project:
+  type: website
+  output-dir: _site
+  resources:
+    - vendor/pdfjs/
+    - assets/
+
+website:
+  title: "Gabriel Garlough-Shah"
+  navbar:
+    title: "Gabriel Garlough-Shah"
+    left:
+      - href: index.md
+        text: Home
+      - href: about.md
+        text: About
+      - href: cv.md
+        text: CV
+      - href: research/index.md
+        text: Research
+  page-footer:
+    left: "© 2026 Gabriel Garlough-Shah"
+    right:
+      - icon: github
+        href: https://github.com/gabe-gshah
+      - icon: envelope
+        href: mailto:gabe.gshah@u.northwestern.edu
+      - icon: linkedin
+        href: https://www.linkedin.com/in/gabriel-garlough-shah-8b0646179/
+
+format:
+  html:
+    theme: litera
+    css: styles.css
+    toc: true
+    toc-location: right
+    page-layout: article
+    smooth-scroll: true
+    link-external-newwindow: true
+
+execute:
+  freeze: auto
+
+
+
