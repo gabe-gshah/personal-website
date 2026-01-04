@@ -14,10 +14,3 @@ page-layout: article
 - Slides: [link](https://docs.google.com/presentation/d/1uY-sBzFwOpydipoQG-xhraxRwdJuLWF8/edit?usp=sharing&ouid=113571876130760026527&rtpof=true&sd=true)
 - OSF: [link](https://osf.io/a4w6d/?view_only=b0be9e185701460d9fae516fb93d7e20)
 
-## Citation
-@article{doi:10.1080/00218499.2025.2589501,
-author = {Garlough-Shah, Gabriel, Park, Jong Inn, Hayati, Shirley Anugrah, Kang, Dongyeop, and Huh, Jisu},
-title = {Consumer Engagement With AI-Powered Search Engines: Implications for the Future of Search Advertising Research and Practice},
-journal = {Journal of Advertising Research},
-year = {2026},
-doi = {10.1080/00218499.2025.2589501}}
