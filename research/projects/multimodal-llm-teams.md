@@ -14,5 +14,5 @@ page-layout: article
 - Contact for dataset
 
 ## Outputs
-- Paper: Working paper [abstract](https://docs.google.com/document/d/1_Z21qJS_bk9IL4jPq23KGza_NvG29ZooAKMoPml-rAs/edit?usp=drive_link)
+- Paper: Working paper [abstract](https://drive.google.com/file/d/16DeLqTUonLESCfskEDHuGnxLy-d2pzUl/view?usp=drive_link)
 - Slides: [Link](https://docs.google.com/presentation/d/1aOcSIVGbBMH59GjbqZvmWm1PmHqUdUYp/edit?usp=drive_link&ouid=113571876130760026527&rtpof=true&sd=true)
