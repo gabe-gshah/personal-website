@@ -1,0 +1,19 @@
+/* Make the PDF page use more of the available width */
+#viewerContainer {
+  padding: 0 !important;          /* removes big inner gutters */
+}
+
+.pdfViewer .page {
+  margin: 8px auto !important;    /* default is larger; shrink it */
+  border: none !important;        /* optional: remove page border */
+}
+
+/* Remove extra shadow spacing (optional, makes it feel larger) */
+.pdfViewer .page .canvasWrapper {
+  box-shadow: none !important;
+}
+
+/* If a sidebar still sneaks in, force it off */
+#sidebarContainer {
+  display: none !important;
+}
